@@ -15,8 +15,9 @@
 <br/>
 
 
-- 🔭 I’m currently working student Peer Mentor at my University.(https://www.kluniversity.in/).
-- 🤓 I’m currently learning more about Data Science and Big Data Analysis.
+- 🔭 I’m Ex-Data Analyst at Barclays Global Center Services PVT LTD.
+- 🎓 2023 batch Undergrated student at KL University in Bachelor's of Computer Science and Engineering with Data Science and Big Data Analytics.
+- 🤓 I’m currently learning more about Data Science and Big Data Analysis. Also working on in building an e-commerce site.
 - 📰 I contribute few LinkedIn articles, which are up on my projects and my Interests.(https://www.linkedin.com/in/bhanusriedpuganti)..
 - 😍 I'm Interested much to make comics through adobe Illustrator.
 - 📫 How to reach me: [Gmail - bhanusri9701@gmail.com] , [LinkedIn - @bhanusriedpuganti](www.linkedin.com/in/bhanusriedpuganti)
